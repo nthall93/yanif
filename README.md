@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nthall93/yanif/master?filepath=Yanif.pynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nthall93/yanif/master?filepath=Yanif.ipynb)
 
 # yanif
 Yanif scorer.
