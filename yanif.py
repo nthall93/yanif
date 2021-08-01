@@ -119,7 +119,7 @@ class game:
                 else:
                     print('{} was not successful when calling Yanif'.format(calledYanif))
                     calledYanif.stats['False Yanif Count'] += 1
-                    scores[calledYanif] += 25
+                    scores[calledYanif] += 20
                     calledYanif.updateScore(scores[calledYanif], falseYanif = True)
                     scores[scores == scores.min()] = 0
                     
